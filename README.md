@@ -90,6 +90,8 @@ http://127.0.0.1:8000/
 ```
 > Tip: You can also Ctrl+Click the link shown in the terminal to open it directly.
 
-      
-8. 
+If you want to go to **admin panel**
+```nginx
+http://127.0.0.1:8000/admin/
+```
    
