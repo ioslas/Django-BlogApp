@@ -65,5 +65,14 @@ cd Django-BlogApp
    # Linux
    python manage.py migrate
    ```
-5. 
+5. **Create a superuser** (for admin access)
+   ```bash
+   # Windows
+   py manage.py createsuperuser
+
+   # Linux
+   python manage.py createsuperuser
+   ```
+   **Note**: The **db.sqlite3** file is not included in this repository. When you run the above command, Django will **automatically** create a new database. This approach allows each user to generate their own *admin credentials,* keeping the project setup more **autonomous** and **secure**.
+   
 6.  
