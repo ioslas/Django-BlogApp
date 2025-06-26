@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block title %}Searched Articles{% endblock %}
+
+{% block content %} 
+    {% if results %}
+        {% for post in results %}
+            <li> 
+                <a href="{% url 'article_detail' post.pk %}">{{ post.title }}</a> -
+                <a href="{% url 'category' post.category|slugify %}">{{ post.category}} </a> -
+                {{ post.author.first_name}} - {{ post.post_date }}
+                <small> 
+                {% if user.is_authenticated %}
+                    {% if user.id == post.author.id %}
+                        - <a href="{% url 'update_blog' post.pk %}">(Edit)</a>  
+                        <a href="{% url 'delete_blog' post.pk %}">(Delete)</a>
+                    {% endif %}
+                {% endif %}
+                </small><br/>
+                {{ post.snippet }}
+                {{ post.body|slice:"200"|safe }}
+            </li>
+        {% endfor %}
+    {% else %}
+        <h1><strong>No match found</strong></h1>
+    {% endif %}
+{% endblock %} 
