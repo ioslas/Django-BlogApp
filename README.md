@@ -98,3 +98,16 @@ http://127.0.0.1:8000/admin/
 ```
 
 🛑 When you're done, press `Ctrl + C` in the terminal to stop the server.
+
+## Screenshots / Demo
+```markdown
+> The view updates dynamically based on admin/user actions such as creating or editing posts.
+Homepage view:
+![Homepage](https://github.com/user-attachments/assets/f69f044e-af3b-4744-b3b1-58d409549c14)
+
+> This view demonstrates the admin authorization interface.
+Admin panel:
+![Admin panel](https://github.com/user-attachments/assets/7751f808-0900-4167-9709-434da0b6c4db)
+```
+*Note*: I didn't show the logged-in view of admin panel in order to protect sensitive or private data.
+
