@@ -75,4 +75,13 @@ cd Django-BlogApp
    ```
    **Note**: The **db.sqlite3** file is not included in this repository. When you run the above command, Django will **automatically** create a new database. This approach allows each user to generate their own *admin credentials,* keeping the project setup more **autonomous** and **secure**.
    
-6.  
+6. **Start the development server**
+   ```bash
+   # Windows
+   py manage.py runserver
+
+   # Linux
+   python manage.py runserver
+   ```
+7. 
+   
