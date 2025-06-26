@@ -32,8 +32,8 @@ Its main purpose is to provide basic **blog management functionality**, includin
 ## Installation & Setup
 1. **Clone the repository** (or download the files and create a folder with the repository name)  
 ```bash 
-git clone https://github.com/username/project_name.git
-cd project_name
+git clone https://github.com/ioslas/Django-BlogApp.git
+cd Django-BlogApp
 ```
 2. **Create and activate a virtual environment**
    - **Unzip** the *.rar* file (needs to be downloaded)
