@@ -83,5 +83,13 @@ cd Django-BlogApp
    # Linux
    python manage.py runserver
    ```
-7. 
+
+Then open your browser and go to (or `ctrl+click` the link is going to show):
+```cpp
+http://127.0.0.1:8000/
+```
+> Tip: You can also Ctrl+Click the link shown in the terminal to open it directly.
+
+      
+8. 
    
