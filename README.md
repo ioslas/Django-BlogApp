@@ -31,10 +31,10 @@ Its main purpose is to provide basic **blog management functionality**, includin
 
 ## Installation & Setup
 1. **Clone the repository** (or download the files and create a folder with the repository name)  
-```bash 
-git clone https://github.com/ioslas/Django-BlogApp.git
-cd Django-BlogApp
-```
+   ```bash 
+   git clone https://github.com/ioslas/Django-BlogApp.git
+   cd Django-BlogApp
+   ```
 2. **Create and activate a virtual environment**
    - **Unzip** the *.rar* file (needs to be downloaded)
    ```bash
@@ -49,6 +49,8 @@ cd Django-BlogApp
    # Linux
    python -m venv env
    source env/bin/activate
+
+   pip install -r requirements.txt (optional)
    ```
 3. **Install Django in the virtual environment**
    ```bash
@@ -84,14 +86,15 @@ cd Django-BlogApp
    python manage.py runserver
    ```
 
-Then open your browser and go to (or `ctrl+click` the link is going to show):
+Then open your browser and go to (or `Ctrl+Click` the link is going to show):
 ```cpp
 http://127.0.0.1:8000/
 ```
 > Tip: You can also Ctrl+Click the link shown in the terminal to open it directly.
 
-If you want to go to **admin panel**
+If you want to go to **admin panel** (if you are authorized as admin)
 ```nginx
 http://127.0.0.1:8000/admin/
 ```
-   
+
+🛑 When you're done, press `Ctrl + C` in the terminal to stop the server.
