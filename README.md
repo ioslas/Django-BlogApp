@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/Language-Python-C0D727)
 ![Django](https://img.shields.io/badge/Django-4.2.11-darkgreen)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 This is a web application built using the **Django framework (v4.2.11)** and **Python 3.9**.  
 Its main purpose is to provide basic **blog management functionality**, including *post creation, editing, delete, etc*.
