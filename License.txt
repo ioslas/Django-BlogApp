@@ -1,0 +1,14 @@
+Copyright © 2025 [Your Name]
+
+This project is provided for **educational and personal learning (practice) purposes only**.
+
+✅ Allowed:
+- Download and study the code
+- Use locally for personal experimentation or practice
+
+⛔ Not Allowed:
+- Reuse or modify the code in public or private repositories
+- Submit as part of academic, professional, or public work
+- Redistribute or publish any part of the code without permission
+
+Please contact the author for any use beyond personal study.
