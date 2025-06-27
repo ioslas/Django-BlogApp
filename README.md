@@ -86,7 +86,7 @@ Its main purpose is to provide basic **blog management functionality**, includin
    python manage.py runserver
    ```
 
-Then open your browser and go to (or `Ctrl+Click` the link is going to show):
+Then open your browser and go to (or `Ctrl + Click` the link is going to show):
 ```cpp
 http://127.0.0.1:8000/
 ```
