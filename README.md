@@ -24,10 +24,10 @@ Its main purpose is to provide basic **blog management functionality**, includin
 - *Django 4.2.11* -> **web framework** for building the application
 - *HTML/CSS* -> **front-end template** structure 
 - *SQLite* -> **default DB** (relational database)
-- *Django ORM* – **Object-Relational Mapper** for handling database operations
+- *Django ORM* –> **Object-Relational Mapper** for handling database operations
 - *Bootstrap* -> for responsive **styling**
 - *Django Templating Engine* –> for **rendering dynamic** content in *HTML*
-- *Django Admin Panel* – **built-in interface** to manage posts and users 
+- *Django Admin Panel* –> **built-in interface** to manage posts and users 
 
 ## Installation & Setup
 1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
