@@ -30,7 +30,7 @@ Its main purpose is to provide basic **blog management functionality**, includin
 - *Django Admin Panel* – **built-in interface** to manage posts and users 
 
 ## Installation & Setup
-1. **Clone the repository** (or <code> -> Download ZIP and unzip the folder)  
+1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
    ```bash 
    git clone https://github.com/ioslas/Django-BlogApp.git
    cd Django-BlogApp
