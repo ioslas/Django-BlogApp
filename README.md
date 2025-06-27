@@ -111,3 +111,8 @@ Admin panel:
 ```
 *Note*: I didn't show the logged-in view of admin panel in order to protect sensitive or private data.
 
+## License
+
+🔒 This project is licensed for **educational and personal use only**.  
+You are free to download, study or practice it, but you **may not reuse, republish, or distribute** it without permission.  
+See the [LICENSE](./LICENSE.txt) file for full terms.
