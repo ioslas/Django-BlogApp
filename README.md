@@ -109,8 +109,9 @@ Homepage view:
 ```markdown
 > This view demonstrates the admin authorization interface.
 Admin panel:
-![Admin panel](https://github.com/user-attachments/assets/7751f808-0900-4167-9709-434da0b6c4db)
 ```
+![Admin panel](https://github.com/user-attachments/assets/7751f808-0900-4167-9709-434da0b6c4db)
+
 *Note*: I didn't show the logged-in view of admin panel in order to protect sensitive or private data.
 
 ## 📄 License
