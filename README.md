@@ -106,6 +106,7 @@ Homepage view:
 ```
 ![Homepage](https://github.com/user-attachments/assets/f69f044e-af3b-4744-b3b1-58d409549c14)
 
+```markdown
 > This view demonstrates the admin authorization interface.
 Admin panel:
 ![Admin panel](https://github.com/user-attachments/assets/7751f808-0900-4167-9709-434da0b6c4db)
