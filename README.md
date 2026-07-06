@@ -7,7 +7,7 @@
 This is a web application built using the **Django framework (v4.2.11)** and **Python 3.9**.  
 Its main purpose is to provide basic **blog management functionality**, including *post creation, editing, delete, etc*.
 
-## Features
+## ✨ Features
 - Dynamic URL routing & views
 - **CRUD** operations on blog posts
 - Display posts in **list view** and **detailed view**
@@ -19,7 +19,7 @@ Its main purpose is to provide basic **blog management functionality**, includin
 - *Automatic date/time* stamps for posts
 - **Search/filter** functionality
 
-## Technologies
+## 🛠️ Technologies
 - *Python 3.9* -> **core programming language**   
 - *Django 4.2.11* -> **web framework** for building the application
 - *HTML/CSS* -> **front-end template** structure 
@@ -29,7 +29,7 @@ Its main purpose is to provide basic **blog management functionality**, includin
 - *Django Templating Engine* –> for **rendering dynamic** content in *HTML*
 - *Django Admin Panel* –> **built-in interface** to manage posts and users 
 
-## Installation & Setup
+## 🚀 Installation & Setup
 1. **Clone the repository** (or \<code\> -> Download ZIP and unzip the folder)  
    ```bash 
    git clone https://github.com/ioslas/Django-BlogApp.git
@@ -99,7 +99,7 @@ http://127.0.0.1:8000/admin/
 
 🛑 When you're done, press `Ctrl + C` in the terminal to stop the server.
 
-## Screenshots / Demo
+## 📸 Screenshots (Application Preview)
 ```markdown
 > The view updates dynamically based on admin/user actions such as creating or editing posts.
 Homepage view:
