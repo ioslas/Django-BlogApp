@@ -1,4 +1,5 @@
-# Django Blog Application
+<div><h1><center>Django Blog Application</center></h1></div>
+
 ![Java](https://img.shields.io/badge/Language-Python-C0D727)
 ![Django](https://img.shields.io/badge/Django-4.2.11-darkgreen)
 ![Version](https://img.shields.io/badge/Version-1.0-orange)
