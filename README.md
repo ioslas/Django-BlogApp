@@ -8,7 +8,7 @@
 This is a web application built using the **Django framework (v4.2.11)** and **Python 3.9**.  
 Its main purpose is to provide basic **blog management functionality**, including *post creation, editing, delete, etc*.
 
-</div>
+</div><br><br>
 
 
 ## ✨ Features
