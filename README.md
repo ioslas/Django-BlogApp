@@ -1,5 +1,4 @@
 <div align="center"><h1>Django Blog Application</h1>
-</div>
 
 ![Java](https://img.shields.io/badge/Language-Python-C0D727)
 ![Django](https://img.shields.io/badge/Django-4.2.11-darkgreen)
@@ -8,6 +7,9 @@
 
 This is a web application built using the **Django framework (v4.2.11)** and **Python 3.9**.  
 Its main purpose is to provide basic **blog management functionality**, including *post creation, editing, delete, etc*.
+
+</div>
+
 
 ## ✨ Features
 - Dynamic URL routing & views
