@@ -1,4 +1,4 @@
-<div><h1><center>Django Blog Application</center></h1>
+<div><center><h1>Django Blog Application</h1></center>
 </div>
 
 ![Java](https://img.shields.io/badge/Language-Python-C0D727)
