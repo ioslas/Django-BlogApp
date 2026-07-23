@@ -122,4 +122,4 @@ Admin panel:
 
 🔒 This project is licensed for **educational and personal use only**.  
 You are free to download, study or practice it, but you **may not reuse, republish, or distribute** it without permission.  
-See the [LICENSE](./License.txt) file for full terms.
+See the [LICENSE](./License) file for full terms.
