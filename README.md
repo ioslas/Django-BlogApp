@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Python-C0D727?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-4.2.11-darkgreen?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 This is a web application built using the **Django framework (v4.2.11)** and **Python 3.9**.  
